@@ -79,3 +79,9 @@ The best.pt model was obtained through training
 Python program Train_SkinLessions_Yolo26.py.
 
 The LOGTrainSkinLessionClassification_50epoch.docx file, containing the 50-epoch log of the training process, is also included.
+
+REFERENCES:
+
+https://dataverse.harvard.edu/dataset.xhtml?
+
+https://github.com/ablanco1950/SkinLesionDetection_Resnet_Pytorch
