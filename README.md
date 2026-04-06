@@ -72,6 +72,30 @@ The model displays a list of images whose classes were correctly predicted and t
 
 It also produces the confusion matrix and the classification report. Images with a prediction confidence level below 0.9 are not considered and appear in the SkinImagesRejected.txt file.
 
+              precision    recall  f1-score   support
+
+       akiec       0.60      0.64      0.62        14
+       
+         bcc       0.94      0.81      0.87        42
+         
+         bkl       0.89      0.87      0.88       124
+         
+          df       0.88      0.92      0.90        24
+          
+         mel       0.78      0.72      0.75        87
+         
+          nv       0.96      0.98      0.97       708
+          
+        vasc       0.89      0.73      0.80        22
+        
+
+    accuracy                           0.93      1021
+    
+   macro avg       0.85      0.81      0.83      1021
+   
+weighted avg       0.93      0.93      0.93      1021
+
+
 TRAINING
 
 The best.pt model was obtained through training
