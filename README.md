@@ -42,7 +42,7 @@ pip install scikit-learn
 
 Download all the files that accompany this project in a single folder.
 
-By downloading the file from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T in the directory where the project is located, a file called dataverse_files.zip is obtained, which once decompressed as dataverse_files contains, among others, the files HAM10000_images_part1.zip and HAM10000_images_part2.zip, which once unzipped must be unified into a single HAM10000_images folder (through a simple copy and paste) in the same dataverse_files directory
+By downloading the file from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T   in the directory where the project is located, a file called dataverse_files.zip is obtained, which once decompressed as dataverse_files contains, among others, the files HAM10000_images_part1.zip and HAM10000_images_part2.zip, which once unzipped must be unified into a single HAM10000_images folder (through a simple copy and paste) in the same dataverse_files directory
 
 In that folder: dataverse_files, the file ISIC2018_Task3_Test_Images.zip must be descompressed, which produces two nested directories named each one ISIC2018_Task3_Test_Images with 1115 images to test
 
