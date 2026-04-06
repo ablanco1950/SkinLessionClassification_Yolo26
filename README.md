@@ -98,7 +98,7 @@ It also produces the confusion matrix and the classification report. Images with
 
     
   
-![Fig1]([https://github.com/ablanco1950/SkinLessionClassification_Yolo26/blob/main/ConfusionMatrix.png])
+![Fig1](https://github.com/ablanco1950/SkinLessionClassification_Yolo26/blob/main/ConfusionMatrix.png)
   
 
 TRAINING
