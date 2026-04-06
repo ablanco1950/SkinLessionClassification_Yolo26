@@ -91,10 +91,13 @@ It also produces the confusion matrix and the classification report. Images with
 
     accuracy                           0.93      1021
     
+    accuracy                           0.93      1021
+    
    macro avg       0.85      0.81      0.83      1021
    
 weighted avg       0.93      0.93      0.93      1021
 
+  
 
 TRAINING
 
