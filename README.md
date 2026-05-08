@@ -1,7 +1,7 @@
 # SkinLessionClassification_Yolo26
 Classification of skin lesions (among 7 classes) using the file https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T  and the Yolo26 model. Only images with a confidence level greater than 0.9 are considered, representing two-thirds of the total.
 
-Images that do not have a confidence level exceeding 0.9, according to the model, are referenced in a file for manual inspection.
+Images that do not have a confidence level exceeding 0.9(according to the model) are referenced in a file for manual inspection.
 
 According to the specifications of the download file, the 7 types of injuries to be detected are:
 
