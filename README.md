@@ -21,11 +21,11 @@ vasc: vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorr
 
 INSTALLATION:
 
-For training download from:
+Note:
 
-https://huggingface.co/Ultralytics/YOLO26/blob/main/yolo26n-cls.pt
+If you already have Ultralytics installed, you must update it. Otherwise, if you have an older version of Ultralytics, it won't have the address for the latest version of yolo26n-cls.pt and won't download it automatically.
 
-The pretrained classifier model yolo26n-cls.pt
+pip install -U ultralytics
 
 
 All packages, if any are missing, can be installed with a simple pip in case the programs indicate their absence in the environment.
